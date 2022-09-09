@@ -1,0 +1,14 @@
+{
+  "Flex": 15,
+  "TextBox": 5,
+  "Image": 1,
+  "BarChart": 5,
+  "Dropdown": 3,
+  "Checkbox": 2,
+  "Radio": 6,
+  "LineChart": 1,
+  "AreaChart": 1,
+  "PieChart": 1,
+  "Slider": 1,
+  "Input": 1
+}
